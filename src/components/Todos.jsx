@@ -39,7 +39,6 @@ export const Todos = () => {
      })
  }
 
-
     return(
       
         <article>
